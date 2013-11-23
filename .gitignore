@@ -1,0 +1,7 @@
+mojolingo_dev.box
+.DS_Store
+.vagrant
+.rvmrc
+vagrant/
+tmp
+cookbooks
