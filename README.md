@@ -2,6 +2,8 @@
 
 This is an example repo showing how to set up a Vagrant machine in building adhearsion applications integrated into a larger enviornment.
 
+The main thing to look at is the [Vagrantfile](Vagrantfile), as well as the [Chef recipies](Cheffile) used.
+
 ## Links
 
 * [Mojo Lingo](https://www.mojolingo.com)
