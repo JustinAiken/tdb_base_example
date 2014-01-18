@@ -1,7 +1,0 @@
-{
-  "id": "user100",
-  "data_bag": "ejabberd_users",
-  "node": "100",
-  "domain": "10.203.175.73",
-  "password": "passwd"
-}
